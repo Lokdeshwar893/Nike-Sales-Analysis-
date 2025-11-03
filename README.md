@@ -75,11 +75,8 @@ To analyze Nike’s sales data and uncover insights that can help improve revenu
 
 ---
 
-## 🛠️ Tools Used  
-- **Microsoft Excel** – Data Cleaning & Analysis  
-- **PowerPoint** – Dashboard & Presentation  
+## 🛠️ Tools Used    
+- **PowerPoint** – Presentation  
 - *(Optional: Python, Pandas, Matplotlib)* – For advanced analysis  
 
----
-
-## 📂 Project Structure  
+  
